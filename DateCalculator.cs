@@ -3,7 +3,7 @@ using System.Text.RegularExpressions;
 
 namespace DateCalculatorApplication
 {
-    internal class DateCalculator
+    public class DateCalculator
     {
         public static void Main()
         {
