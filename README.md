@@ -3,6 +3,14 @@
 **Overview :**
 The Date Calculator is a simple C# console application that allows users to perform various date calculations, such as validating dates, adding days to a date, and determining leap years. It’s a helpful tool for users who need to work with dates, whether for personal use or in professional settings.
 
+
+Example :if we give date 31/01/2016 and the addition of 1day ..(dd/mm/yyy formate only accept here we r done format checking)
+
+Output: New Date:01/02/2016
+
+
+
+
 **Features Date Validation:** 
 Ensures the entered date is in the correct format (dd/mm/yyyy) and checks if it's a valid calendar date.
 
